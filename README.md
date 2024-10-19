@@ -9,5 +9,5 @@ This project classifies bird species from uploaded images using a pretrained Res
 
 ## Usage
 
-1. Run the Streamlit app: `streamlit run app/main.py`
+1. Run the Streamlit app: `streamlit run main.py`
 2. Upload a bird image and get the species classification
